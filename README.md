@@ -11,3 +11,5 @@ Type "!multiply [number] [number]" in the chat box and the bot will return the p
 
 !bing:
 Type "!bing" in the chat box and the bot will respond with "bong".
+
+Must change bot token before implementing.
