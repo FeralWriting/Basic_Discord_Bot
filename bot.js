@@ -66,4 +66,4 @@ function helpCommand(arguments, receivedMessage) {
     }
 }
 
-client.login("NzQ1MDg0OTcxNTM4MDU1MjIw.XzsodA.Vc8h8vkO8qtgNgONhIxA8Q6OuMs");
+client.login(/*input bot token*/);
