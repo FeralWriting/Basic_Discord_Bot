@@ -1,4 +1,4 @@
-# Basic_Discord_Bot
+# Basic Discord Bot
 
 A basic discord bot in JavaScript, with a few commands. This project uses Javascript. This project gave me experience with Javascript, bot creation, Visual Studio Code, and discord. Must change bot token before implementing.
 
